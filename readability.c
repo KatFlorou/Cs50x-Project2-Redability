@@ -9,7 +9,6 @@ int count_words(string text);
 int count_sentences(string text);
 
 
-
 int main(int argc, string argv[])
 {
     //Prompt user for text
